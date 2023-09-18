@@ -2,14 +2,12 @@
 
 I describe myself as a Fullstack developer
 
-*My current stack*
-
-| Languages / framework  |  | Database       |  | Containerization       |  
-|------------------------|  |----------------|  |------------------------|
-| Javascript / Typescript|  | Mysql          |  | Docker                 |
-| React / Node           |  | PosgreSQL      |  | Posman                 |
-| Python                 |  | MongoDB        |
-| Docker                 |
+| Category       | Technology                    |
+|---------------:|-------------------------------|
+|Language        | Javascript, Typescript, Python|
+|Database        | Mysql, PosgresSQL, MongoDB    |
+|Libraries       | Node, React, Next             |
+|Containerization| Docker, Posman                |
 
 
 
