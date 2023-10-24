@@ -1,13 +1,38 @@
-### Orlando Nuske 👋
+### Hi 👋 I'm Orlando Nuske a full stack developer
 
-I describe myself as a Fullstack developer
+✨ My stack ✨
+---
+- HTML: 10+ years
+- CSS: 10+ years
+- Javascript: 8+ years
+- Typescript: 1 year
+- Python: 1 year, (Flask)
+- Node: 6+ years, (Express, Nestjs)
+- React: 6+ years, (Hooks, Redux, Context)
+- Nextjs: 6 months
+- PostgreSQL 4 years
+- MySQL: 8+ years
+- MongoDB: 3 years, (ORM/ODM Mongoose)
+- AWS: 4 years, (EC2, S3, buckets, Cognito)
+- Docker: 4 years
+- GraphQL: 4 months
+- Git: 7+ years
 
-| Category       | Technology                    |
-|---------------:|-------------------------------|
-|Language        | Javascript, Typescript, Python|
-|Database        | Mysql, PosgresSQL, MongoDB    |
-|Libraries       | Node, React, Next             |
-|Containerization| Docker, Posman                |
+Testing
+---
+- Unit-tests/Integration-tests (Mocka, Jest)
+- Storybook
+
+Platforms builders
+---
+- Cordova
+- Electron
+
+Miscellaneous
+---
+- CI/CD
+- SCSS/SASS (Mantine)
+
 
 
 
