@@ -2,24 +2,24 @@
 
 ✨ My stack ✨
 ---
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" height="20" style="max-width: 100%;"> 10+ years
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" height="20" style="max-width: 100%;"> 10+ years
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20" style="max-width: 100%;"> 8+ years
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="20" height="20" style="max-width: 100%;"> 1 year
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20" style="max-width: 100%;"> 1 year
-- <img src="https://raw.githubusercontent.com/neuronas/neuronas/main/img/flask-3.webp" width="20" height="20" style="max-width: 100%;"> 1 year
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="20" height="20" style="max-width: 100%;"> 6+ years
-- <img src="https://raw.githubusercontent.com/neuronas/neuronas/main/svg/express-original.svg" width="20" height="20" style="max-width: 100%;"> 6+ years
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="20" height="20" style="max-width: 100%;"> 1 year
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" height="20" style="max-width: 100%;"> 6+ years (Hooks, Context)
-- <img src="https://raw.githubusercontent.com/neuronas/neuronas/main/svg/nextjs-original.svg" width="20" height="20" style="max-width: 100%; background-color: #fff"> 1 year
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20" height="20" style="max-width: 100%;"> 4 years
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20" height="20" style="max-width: 100%;"> 8+ years
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="20" height="20" style="max-width: 100%;"> 3 years (ORM/ODM Mongoose)
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="20" height="20" style="max-width: 100%;"> 4 years, (EC2, S3, buckets, Cognito)
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20" height="20" style="max-width: 100%;"> 4 years
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="20" height="20" style="max-width: 100%;"> 4 months
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" height="20" style="max-width: 100%;"> 7+ years
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="14" height="14" style="max-width: 100%;"> 10+ years
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="14" height="14" style="max-width: 100%;"> 10+ years
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="14" height="14" style="max-width: 100%;"> 8+ years
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="14" height="14" style="max-width: 100%;"> 1 year
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="14" height="14" style="max-width: 100%;"> 1 year
+- <img src="https://raw.githubusercontent.com/neuronas/neuronas/main/img/flask-3.webp" width="14" height="14" style="max-width: 100%;"> 1 year
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="14" height="14" style="max-width: 100%;"> 6+ years
+- <img src="https://raw.githubusercontent.com/neuronas/neuronas/main/svg/express-original.svg" width="14" height="14" style="max-width: 100%;"> 6+ years
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="14" height="14" style="max-width: 100%;"> 1 year
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="14" height="14" style="max-width: 100%;"> 6+ years (Hooks, Context)
+- <img src="https://raw.githubusercontent.com/neuronas/neuronas/main/svg/nextjs-original.svg" width="14" height="14" style="max-width: 100%; background-color: #fff"> 1 year
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="14" height="14" style="max-width: 100%;"> 4 years
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="14" height="14" style="max-width: 100%;"> 8+ years
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="14" height="14" style="max-width: 100%;"> 3 years (ORM/ODM Mongoose)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="14" height="14" style="max-width: 100%;"> 4 years, (EC2, S3, buckets, Cognito)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="14" height="14" style="max-width: 100%;"> 4 years
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="14" height="14" style="max-width: 100%;"> 4 months
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="14" height="14" style="max-width: 100%;"> 7+ years
 
 Testing
 ---
