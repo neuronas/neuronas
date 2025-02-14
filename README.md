@@ -23,18 +23,18 @@
 
 Testing
 ---
-- Unit-tests/Integration-tests (Mocka, Jest)
+- Unit-tests/Integration-tests (Mocha, Jest)
 - Storybook
 
 Platforms builders
 ---
-- Cordova
+- Cordova/Capacitor
 - Electron
 
 Miscellaneous
 ---
 - CI/CD
-- SCSS/SASS (Mantine)
+- SCSS/SASS (MaterialUI, Mantine, shadcn/u)
 
 
 
